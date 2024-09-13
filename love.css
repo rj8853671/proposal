@@ -20,7 +20,7 @@ body {
 }
 
 .card {
-    background-color: rgba(222, 181, 181, 0.1); /* White with 80% opacity */
+    background-color: rgba(222, 181, 181, 0.15); /* White with 80% opacity */
     border-radius: 10px;
   
     padding: 20px 60px;
